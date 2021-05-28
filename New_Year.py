@@ -2,7 +2,7 @@ import os
 year = input('What year would you like to work on: ')
 
 try:
-	os.makedirs(year)
+    os.makedirs(year)
 except FileExistsError as e:
 	print(e)
 
