@@ -16,4 +16,4 @@ for i in range(1,26):
 		immediately_close = open(cwd + f"day{i}Input.txt", 'w')
 		immediately_close.close()
 	except FileExistsError as e:
-		print(e)
+		print(e) 
