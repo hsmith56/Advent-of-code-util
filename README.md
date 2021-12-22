@@ -1,2 +1,3 @@
 # Advent-of-code-util
-A simple python script to make all the files needed to complete the 25 days of code. Only works on windows directories, if wanting to use on UNIX replace \\ with /
+A simple python script to make all the daily input and python files set up with the below format: \
+![image](https://user-images.githubusercontent.com/47962432/147120013-9499c3eb-7e46-4d18-9164-292f661573ae.png)
