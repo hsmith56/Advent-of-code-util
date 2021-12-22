@@ -8,7 +8,6 @@ except FileExistsError as e:
 
 cwd = os.getcwd() + '\\' + year + '\\'
 
-
 for i in range(1, 26):
     try:
         os.makedirs(os.path.join(cwd, f"day{i:02d}"))
